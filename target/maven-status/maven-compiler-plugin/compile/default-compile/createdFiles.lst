@@ -1,0 +1,6 @@
+app\repository\ResgisterRepository.class
+app\controller\RegisterController.class
+app\servie\RegisterService.class
+app\model\Register.class
+app\SpringBootApp.class
+app\servie\impl\RegisterServiceImpl.class
